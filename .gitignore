@@ -3,3 +3,11 @@ composer.phar
 
 # PhpStorm
 .idea/*
+
+# Composer
+composer.lock
+
+
+# SPECIAL! ToDo: Remove
+testing.php
+.env
